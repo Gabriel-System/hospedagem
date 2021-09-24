@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+.container-full-header{
+   background-color: rgb(255, 255, 255);
+}
+
+header, .navbar{
+height: 120px;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 120px;
+    
+}
+.navbar-brand {
+    padding: 0;
+    color:#FFF;
+}
+.navbar-brand:hover {
+    color: #FFF;
+}
+#navbar-links a {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Bungee Shade', cursive;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+.nav-item,
+.nav-link {
+    font-size: 18px;
+}

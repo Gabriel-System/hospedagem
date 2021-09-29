@@ -1,0 +1,47 @@
+//box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;{
+
+.container {
+    padding-top:10%;
+}
+.titulo1 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+}
+.titulo2 {
+    font-size: 23px;
+    text-align: center;
+    padding-top: 15px;
+}
+.row{
+    padding-top: 80px;
+}
+.col-3{
+    color: currentcolor;
+    background-color:beige;
+    border-radius: 5%;
+    border: 2px solid rgb(218, 205, 205);
+    align-items: center;
+    justify-content: center;
+}
+.price2 {
+    padding-left: 8px;
+}
+.priece4 {
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+.text {
+    text-align: center;
+}
+.col-6 {
+    display: flex;
+    justify-content: center;
+    align-items: 100% center;
+    max-width: 100%;
+    margin: 0px 0px 25px 0px; 
+}

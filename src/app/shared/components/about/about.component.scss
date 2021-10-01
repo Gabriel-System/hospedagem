@@ -1,33 +1,33 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
+.service-26 {
+  font-family: "Montserrat", sans-serif;
+  color: #8d97ad;
+  font-weight: 300;
+}
 .container{
-    background-color: rgb(224, 233, 233);
+    margin-top: 180px;
 }
-.title {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    color: rgb(163, 143, 143);  
-    margin: 120px;
-    margin-top: 220px;
-    padding-top: 40px;
+.text-megna{
+    color: green
 }
-.titulo {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    padding-top: 15px;
+
+.service-26 h1, .service-26 h2, .service-26 h3, .service-26 h4, .service-26 h5, .service-26 h6 {
+  color: #d67272;
 }
-.text {
-    padding-top: 14px;
+
+.service-26 .font-weight-medium {
+	font-weight: 500;
 }
-.col-4 {
-    border: 1px solid #242421;
-    margin-top: 80px;
+
+.service-26 .wrap-service-26 .max-box {
+    max-width: 580px;
 }
-.col-6 {
-    padding-top: 70px;
+  
+  .btn {
+  color: aliceblue;
+  background-color:rgb(55, 117, 119);
 }
-.col-12 {
-    align-items: center;
-    justify-content: center;
-    display: flex;
+.img-fluid {
+  border-radius: 50%;
 }
+  

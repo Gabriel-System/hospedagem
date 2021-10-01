@@ -1,9 +1,8 @@
-body {margin-top:20px;
-    background:#eee;
+body{ margin-top:20px;
     }
     .service-container {
       -webkit-transition: all 0.5s ease;
-      transition: all 0.5s ease;
+      transition: all 0.5s ease;;
     }
     
     .service-container .icon {
@@ -13,8 +12,9 @@ body {margin-top:20px;
       transition: all 0.5s ease;
     }
     .container{
-        padding-top: 200px;
-    }
+      margin-top: 150px;
+        padding-top:50px
+   }
     
     .service-container .number-icon .icon-2 {
       height: 70px;
@@ -178,15 +178,15 @@ body {margin-top:20px;
     
     .service-wrapper:hover {
       -webkit-box-shadow: 0 10px 25px rgba(47, 60, 78, 0.15) !important;
-              box-shadow: 0 10px 25px rgba(47, 60, 78, 0.15) !important;
+      box-shadow: 0 10px 25px rgba(47, 60, 78, 0.15) !important;
       background: #ffffff;
       -webkit-transform: translateY(-8px);
-              transform: translateY(-8px);
+      transform: translateY(-8px);
       border-color: transparent !important;
-    }
+}
     
     .service-wrapper:hover .icon {
-      background: #000000 !important;
+      background: #6c7981 !important;
       color: #ffffff !important;
     }
     
